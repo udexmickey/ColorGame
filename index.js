@@ -1,4 +1,3 @@
-alert("Welcome to the RGB color picking game!!!");
 
 var colors = generateRandomColor(6);
 var container = document.getElementById("container");
