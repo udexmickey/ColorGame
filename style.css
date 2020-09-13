@@ -64,3 +64,16 @@ button:hover{
     font-size: 3rem;
     line-height: 1.5;
 }
+
+@media all and (max-width:320px){
+    #message{
+        margin: 0 4%;
+    }
+
+    #colorDisplay{
+        display: block;
+        font-weight: 900;
+        font-size: 2rem;
+        line-height: 2;
+    }
+}
